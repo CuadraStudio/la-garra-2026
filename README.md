@@ -10,9 +10,8 @@ Sitio estático (HTML, CSS y JS, sin dependencias ni paso de build) con la landi
 | La Garra Montes (Barro&Corazón) | `montes.html` |
 
 ```
-css/main.css      estilos de la landing
-css/edicion.css   estilos compartidos por las tres ediciones (el acento sale de --ac en .gp)
-js/main.js        FAQ de a una pregunta, apertura por #hash, rel seguro en enlaces externos
+css/style.css     estilos de todo el sitio (el color de cada edición sale de --ac y --ad en .gp)
+js/main.js        FAQ de a una pregunta (.faq-l), apertura por #hash, rel seguro en enlaces externos
 img/              fotos y logo
 ```
 

@@ -4,7 +4,7 @@
   'use strict';
 
   // FAQ: al abrir una pregunta se cierran las demás de su misma lista.
-  document.querySelectorAll('.faq').forEach(function (faq) {
+  document.querySelectorAll('.faq-l').forEach(function (faq) {
     var items = faq.querySelectorAll('details');
     items.forEach(function (d) {
       d.addEventListener('toggle', function () {
