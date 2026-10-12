@@ -193,3 +193,76 @@ html{scroll-behavior:smooth}
 .dstamp{animation:pop .7s .4s cubic-bezier(.2,1.4,.4,1) both}
 .faq-l details[open] .ans{animation:up .35s ease both}
 }
+
+@media (max-width:859px){.gp{font-size:16px}}
+@container page (max-width:859px){
+.wrap{padding-inline:18px}
+.wm{font-size:20px;gap:8px}.wm svg{width:28px;height:17px}
+.hdr-in{padding-block:9px}
+.btn{font-size:15px}
+.btn .bt{min-height:48px;padding:0 16px}
+.btn .ba{width:46px}.btn svg{width:20px;height:20px}
+.btn-sm .bt{min-height:42px;font-size:13px;padding:0 11px}.btn-sm .ba{width:40px}
+.full .bt{font-size:14px;letter-spacing:.09em}
+.sec{scroll-margin-top:62px}
+.hero,.eh{padding-top:24px}
+.hero{padding-bottom:34px;gap:30px}
+.eh{padding-bottom:36px;gap:30px}
+.kick,.chipx{font-size:12.5px;padding:5px 10px}
+.h1{font-size:40px;margin-top:16px}
+.eh h1{font-size:50px;margin-top:16px}
+.lead{margin-top:16px;font-size:17px}
+.ctas{margin-top:22px}
+.tag{margin-top:20px;font-size:18px}
+.stamps{margin-top:24px;gap:10px}
+.stamp{width:82px;height:82px}.stamp b{font-size:15px}.stamp i{font-size:10.5px}
+.pol{padding:8px 8px 40px}
+.pol::before{width:84px;height:24px;top:-12px}
+.pol figcaption{font-size:12px;bottom:11px}
+.tri,.ess,.cl,.faqs,.exp,.kits,.gal{padding-block:38px}
+.oth{padding-block:34px}
+.h2{font-size:32px;margin-top:10px}
+.sub{letter-spacing:.12em}
+.grid3{gap:24px}
+.tk .ph{height:188px}
+.tk .band{font-size:12.5px;padding:6px 14px}
+.tk .bd{padding:16px 16px 18px}
+.tk h3{font-size:36px}
+.tk .pl{font-size:13px}
+.tk p.d{font-size:15px;margin-top:8px}
+.tkl{margin-top:10px}.tkl a{font-size:13px}
+.ess p.big{font-size:56px;line-height:.9;margin-top:0}
+.pol img{aspect-ratio:1/1}
+.eh .pol img{aspect-ratio:4/4.2}
+.ess-g{gap:30px}
+.ess p,.ess p+p{font-size:15.5px}
+.cl h2{font-size:31px}.cl p.q{font-size:17px;margin-bottom:20px}
+.facts{margin-top:20px;gap:10px}
+.fact{padding:9px 13px}.fact span{font-size:11px}.fact b{font-size:21px}
+.btns{margin-top:22px;gap:10px}
+.patch img{width:150px}
+.dstamp{width:88px;height:88px;bottom:-20px;right:-4px}.dstamp b{font-size:23px}.dstamp i{font-size:11px}
+.eh .pol figcaption{right:98px}
+.exp-g{gap:18px}
+.exp .lead2{font-size:17.5px}
+.exp p.b{font-size:16px;margin-top:14px}
+.note{font-size:16.5px;padding:15px 16px;margin-top:22px;border-left-width:8px}
+.mband{height:150px}.mband span{font-size:12px;bottom:12px;left:18px;padding:4px 10px}
+.kg{gap:20px;margin-top:22px}
+.pass .band2{font-size:13px;padding:6px 14px}
+.pass .bd{padding:15px 16px 18px;gap:5px}
+.pass .dt{font-size:32px}.pass .hr{font-size:17.5px}.pass .pl{font-size:15px}
+.reg{padding:16px;margin-top:22px;gap:14px}.reg h3{font-size:22px}
+.faq-l{gap:10px}
+.faq-l summary{font-size:16px;padding:12px 14px;min-height:50px}
+.faq-l summary::after{width:26px;height:26px;font-size:19px}
+.faq-l .ans{font-size:15.5px;margin:0 14px}
+.fq-g{gap:22px}
+.gal-g{margin-top:22px}
+.gal-g figure{padding:7px 7px 7px;margin-bottom:16px}.gal-g figcaption{font-size:11.5px;padding:7px 0 2px}
+.mini{padding:9px;gap:12px}.mini img{width:78px;height:66px}
+.mini .nm{font-size:30px!important}
+.ft2{padding-block:28px 22px}.ft2 .row{margin-top:18px;padding-top:16px}
+.ct{gap:0 20px}.ct a{font-size:15.5px;min-height:44px;gap:8px}.ct svg{width:22px;height:22px}
+.hdr .nav a{font-size:13px;padding:11px 8px}
+}
