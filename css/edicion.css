@@ -100,4 +100,9 @@ html{scroll-behavior:smooth}
   .nav a{white-space:nowrap;padding:12px 8px;font-size:13px;letter-spacing:.07em;background-position:8px calc(100% - 7px)}
   .wm{font-size:24px;gap:9px}.wm i{width:12px;height:24px}
   .btn-sm .bt{padding:0 14px;font-size:15px}.btn-sm .ba{width:44px}
+  .hdr{top:-54px}
+  .nav a{min-height:44px;display:flex;align-items:center}
+  .btn:not(.btn-sm){display:flex;width:100%}
+  .btn:not(.btn-sm) .bt{flex:1;padding:0 18px;font-size:17px;letter-spacing:.1em}
+  .ct a{min-height:48px}
 }
