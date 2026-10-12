@@ -1,3 +1,8 @@
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Fotos originales sin optimizar (se usan las versiones de img/atipica, img/aqua e img/montes)
+img/atípica/
+img/barro/
+img/**/imgi_*
