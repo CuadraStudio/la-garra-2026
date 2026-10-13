@@ -1,4 +1,5 @@
 body{margin:0;background:#111}
+@media(max-width:380px){.gp .hdr-in{gap:8px;padding-inline:12px}.gp .hdr .wm{font-size:18px;gap:6px}.gp .hdr .wm svg{width:24px}.gp .hdr .btn-sm .bt{font-size:11px;letter-spacing:.06em;padding-inline:8px;min-height:44px}.gp .hdr .btn-sm .ba{width:32px}}
 .edited-text{white-space:pre-line}
 .dstamp.stamp-edited{padding:16px;font-size:16px;text-align:center;line-height:1.3}
 html{scroll-behavior:smooth}
