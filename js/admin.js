@@ -11,7 +11,7 @@
     save.disabled = !count;
   }
   function render() {
-    document.getElementById('gmail-settings').hidden = edition.value !== 'index';
+
     var editor = document.getElementById('editor'); editor.replaceChildren();
     var groups = {};
     Object.entries(content.fields).forEach(function (entry) {
@@ -37,34 +37,6 @@
       wrapper.append(label, input, preview); groups[field.group].append(wrapper);
     });
   }
-  async function gmailSettings() {
-    try {
-      var settings = await window.garraApi('getWebsiteSettings', {}, token);
-      document.getElementById('gmail-connect').disabled = !settings.gmailAvailable;
-      document.getElementById('gmail-test').disabled = !settings.gmailAvailable || !settings.gmailConnected;
-      document.getElementById('gmail-status').textContent = settings.gmailConnected
-        ? 'Gmail conectado: ' + settings.emailFrom + ' · Destino habitual: ' + settings.contactTo
-        : settings.gmailAvailable ? 'Google está configurado. Conectá la cuenta de CuadraStudio para activar el envío.'
-        : 'Falta completar la configuración de Google Cloud en Render.';
-    } catch (error) { handle(error); }
-  }
-  document.getElementById('gmail-refresh').addEventListener('click', gmailSettings);
-  document.getElementById('gmail-connect').addEventListener('click', async function () {
-    try {
-      var result = await window.garraApi('getGmailAuthUrl', {}, token);
-      var url = new URL(result.url);
-      if (url.origin !== 'https://accounts.google.com') throw new Error('Enlace de conexión inválido.');
-      if (Object.keys(changes).length && !confirm('Hay textos sin guardar. ¿Querés continuar y descartarlos?')) return;
-      changes = {}; window.location.assign(url.href);
-    } catch (error) { handle(error); }
-  });
-  document.getElementById('gmail-test').addEventListener('click', async function () {
-    var button = this; button.disabled = true;
-    try {
-      var result = await window.garraApi('sendWebsiteTestEmail', {}, token);
-      notify(result.message, !result.sent);
-    } catch (error) { handle(error); }
-  });
   function endSession() { token = ''; content = null; changes = {}; panel.hidden = true; login.hidden = false; login.reset(); }
   function handle(error) {
     if (error.code === 'UNAUTHORIZED') {
@@ -77,7 +49,7 @@
     try {
       var result = await window.garraApi('login', { pin: login.elements.pin.value }); token = result.token;
       content = await window.garraApi('getWebsiteContent', {}, token);
-      changes = {}; render(); updateCount(); gmailSettings(); login.reset(); message.textContent = ''; login.hidden = true; panel.hidden = false;
+      changes = {}; render(); updateCount(); login.reset(); message.textContent = ''; login.hidden = true; panel.hidden = false;
     } catch (error) { token = ''; message.textContent = error.message; message.classList.add('error'); }
     finally { button.disabled = false; }
   });
@@ -142,3 +114,4 @@
     });
   });
 })();
+
