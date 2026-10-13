@@ -23,8 +23,9 @@
         editor.append(group); groups[field.group] = fields;
       }
       var wrapper = document.createElement('div'), label = document.createElement('label');
-      var input = document.createElement('textarea'), preview = document.createElement('p');
+      var input = document.createElement(field.type === 'url' ? 'input' : 'textarea'), preview = document.createElement('p');
       label.htmlFor = key; label.textContent = field.label;
+      if (field.type === 'url') { input.type = 'url'; input.placeholder = 'https://…'; }
       input.id = key; input.maxLength = 10000; input.value = Object.hasOwn(changes, key) ? changes[key] : field.value;
       input.rows = Math.min(12, Math.max(2, input.value.split('\n').length));
       preview.className = 'edited-preview'; preview.textContent = input.value;
@@ -56,12 +57,12 @@
     if (Object.values(changes).some(function (value) { return !value.trim(); })) { notify('Completá los textos vacíos antes de guardar.', true); return; }
     save.disabled = true;
     // Prevent edits during a save from being silently discarded.
-    panel.querySelectorAll('textarea, select').forEach(function (element) { element.disabled = true; });
+    panel.querySelectorAll('#editor input, textarea, select').forEach(function (element) { element.disabled = true; });
     try {
       content = await window.garraApi('updateWebsiteContent', { revision: content.revision, changes: changes }, token);
       changes = {}; render(); notify('Cambios guardados. Ya están disponibles en la web conectada.');
     } catch (error) { handle(error); }
-    finally { panel.querySelectorAll('textarea, select').forEach(function (element) { element.disabled = false; }); updateCount(); }
+    finally { panel.querySelectorAll('#editor input, textarea, select').forEach(function (element) { element.disabled = false; }); updateCount(); }
   });
   document.getElementById('logout').addEventListener('click', function () {
     if (Object.keys(changes).length && !confirm('Hay cambios sin guardar. ¿Querés cerrar la sesión y descartarlos?')) return;

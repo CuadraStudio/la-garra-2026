@@ -390,5 +390,37 @@
     "label": "Retiro 2 · Lugar y dirección",
     "value": "Parque Municipal de Montes\nRuta 81 km 97, Montes, Canelones",
     "edited": false
+  },
+  "social-whatsapp": {
+    "page": "index",
+    "group": "Redes sociales",
+    "label": "WhatsApp",
+    "type": "url",
+    "value": "https://wa.me/59892487898",
+    "edited": false
+  },
+  "social-instagram": {
+    "page": "index",
+    "group": "Redes sociales",
+    "label": "Instagram",
+    "type": "url",
+    "value": "https://www.instagram.com/lagarrauy",
+    "edited": false
+  },
+  "social-twitter": {
+    "page": "index",
+    "group": "Redes sociales",
+    "label": "X / Twitter",
+    "type": "url",
+    "value": "https://twitter.com/lagarrauy",
+    "edited": false
+  },
+  "social-facebook": {
+    "page": "index",
+    "group": "Redes sociales",
+    "label": "Facebook",
+    "type": "url",
+    "value": "https://www.facebook.com/lagarrauy",
+    "edited": false
   }
 }
