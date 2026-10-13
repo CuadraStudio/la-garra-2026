@@ -1,0 +1,394 @@
+{
+  "index-faq-1": {
+    "page": "index",
+    "group": "Preguntas frecuentes",
+    "label": "¿Dónde retiro mi kit de La Garra Aqua?",
+    "value": "Sábado 7 de noviembre, de 14:00 a 18:00, y domingo 8 de noviembre, desde las 10:00, en Aqua Park Colonia (Camino a la Balsa, Balneario Artilleros).",
+    "edited": false
+  },
+  "index-faq-2": {
+    "page": "index",
+    "group": "Preguntas frecuentes",
+    "label": "¿Dónde retiro mi kit de La Garra Barro&Corazón?",
+    "value": "Martes 1 y miércoles 2 de diciembre, de 9:30 a 19:30, en el CEDEC (Av. Br. José Batlle y Ordóñez 2326, esq. Av. Italia, Montevideo). Sábado 5 y domingo 6 de diciembre, desde las 10:00, en el Parque Municipal de Montes (Ruta 81 km 97, Montes, Canelones).",
+    "edited": false
+  },
+  "index-faq-3": {
+    "page": "index",
+    "group": "Preguntas frecuentes",
+    "label": "¿Dónde puedo leer el reglamento?",
+    "value": "Reglamento oficial y deslinde de responsabilidad (PDF): La Garra Atípica · La Garra Aqua · La Garra Barro&Corazón.",
+    "edited": false
+  },
+  "index-faq-4": {
+    "page": "index",
+    "group": "Preguntas frecuentes",
+    "label": "¿Necesito saber nadar para La Garra Aqua?",
+    "value": "No. Todo se vive en un entorno seguro y sin necesidad de saber nadar.",
+    "edited": false
+  },
+  "index-faq-5": {
+    "page": "index",
+    "group": "Preguntas frecuentes",
+    "label": "¿Tengo que tener un nivel físico determinado?",
+    "value": "No. La Garra es una experiencia pensada para todas las personas, sin importar su nivel físico.",
+    "edited": false
+  },
+  "atipica-date": {
+    "page": "atipica",
+    "group": "Datos de edición",
+    "label": "Fecha del evento",
+    "value": "11 de octubre",
+    "edited": false
+  },
+  "atipica-place": {
+    "page": "atipica",
+    "group": "Datos de edición",
+    "label": "Lugar del evento",
+    "value": "Villa Hípica, Sarandí del Yí",
+    "edited": false
+  },
+  "aqua-faq-1": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Cómo participar en La Garra Aqua?",
+    "value": "Requisitos\n• Equipos: mínimo 3 integrantes, sin máximo\n• Edad: desde 13 años\n• Menores de 18: deben participar acompañados por un mayor responsable",
+    "edited": false
+  },
+  "aqua-faq-2": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Por qué es solo para mayores de 13 años?",
+    "value": "Por seguridad y responsabilidad.\nLos circuitos incluyen obstáculos, barro y agua, por lo que requieren cierta autonomía y cuidado personal.\n¡Queremos que todos disfruten al máximo, siempre de forma segura y divertida!",
+    "edited": false
+  },
+  "aqua-faq-3": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Cómo inscribirse?",
+    "value": "Debés seguir estos pasos:\n• Completar el formulario de inscripción desde el botón Inscripción.\n• Abonar el total del equipo en un único pago, según el valor vigente en la fecha del pago.\n• Subir comprobante de pago para finalizar la inscripción del grupo.\n\nLos datos de pago llegan en el mail de confirmación.",
+    "edited": false
+  },
+  "aqua-faq-4": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "Costos de inscripción (por participante)",
+    "value": "Con camiseta oficial incluida.\n• Franja 1: $1.300 – primeros 300 pagos o hasta el 25/09.\n• Franja 2: $1.550 – del 26/09 al 20/10.\n• Franja 3: $1.850 – del 21/10 al 30/10.\n\nEl pago se realiza por el total del grupo.\nPromo: consultar descuento por participación en 2 o las 3 Garras. Incluye un kit con camiseta por cada edición. El descuento de la promo se aplica únicamente a los participantes que se inscriben a dos o las tres ediciones.",
+    "edited": false
+  },
+  "aqua-faq-5": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Qué incluye la inscripción?",
+    "value": "Tu inscripción incluye:\n• Camiseta oficial del evento (talle sujeto a disponibilidad de stock)\n• Regalo exclusivo de La Garra Aqua\n• Pulsera identificatoria correspondiente a tu turno de largada\n• Medalla Finisher al completar el recorrido\n• Productos y obsequios de sponsors\n• Hidratación durante el recorrido y en la llegada\n• Servicio de guardabultos\n• Vestuario\n• Baños\n• Cobertura con fotógrafos oficiales\n• Cantina (comidas y bebidas)\n• Animación y entretenimiento en vivo\n• Cobertura médica con ambulancias y personal de asistencia durante todo el evento",
+    "edited": false
+  },
+  "aqua-faq-6": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Hay que saber nadar?",
+    "value": "• No: no hay ningún obstáculo que requiera nadar.\n• Las zonas con agua se cruzan caminando, haciendo pie.",
+    "edited": false
+  },
+  "aqua-faq-7": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Son muy exigentes los obstáculos?",
+    "value": "No, no son muy exigentes.\n• Correr por barro y agua\n• Trepar cuerdas o escaleras\n• Arrastrarse por zonas con agua y barro\n• Saltar pequeños obstáculos\n\nNo necesitás entrenamiento especial: con actitud y ganas lo superás.",
+    "edited": false
+  },
+  "aqua-faq-8": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Quién gana?",
+    "value": "• En La Garra nadie pierde: no hay cronómetro, ni tiempos, ni podios.\n• Se premian los equipos más divertidos, mejores disfraces y grupos más originales.",
+    "edited": false
+  },
+  "aqua-faq-9": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Se suspende por mal clima?",
+    "value": "• No se suspende por lluvia.\n• Puede postergarse solo con tormenta eléctrica o alerta meteorológica.\n• La organización lo comunicará en redes sociales.",
+    "edited": false
+  },
+  "aqua-faq-10": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "¿Qué vestimenta usar?",
+    "value": "• Disfraces, uniformes, pelucas, accesorios… ¡vale todo!\n• Usar ropa cómoda que puedas mojar y embarrar.",
+    "edited": false
+  },
+  "aqua-faq-11": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "Entrega de kits",
+    "value": "Las fechas, horarios y lugares están en Retiro de kits.\nImportante\n• Presentar el reglamento firmado por todos los integrantes.\n• Puede retirar una sola persona el kit completo del equipo.",
+    "edited": false
+  },
+  "aqua-faq-12": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "Turnos de participación",
+    "value": "12:30 hs – 13:15 hs – 14:00 hs – 14:45 hs – 15:30 hs – 16:15 hs",
+    "edited": false
+  },
+  "aqua-faq-13": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "Formas de pago",
+    "value": "Abonar el total del grupo en ABITAB.\n• Caja ABITABNet 6758 La Garra 2026.\n• Los grupos deben realizar un único pago por el total.\n• Es obligatorio subir en la web de La Garra el comprobante de pago.",
+    "edited": false
+  },
+  "aqua-faq-14": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "Talles de camisetas",
+    "value": "Revisar bien los talles antes de elegir.\nNo se podrán cambiar luego de la inscripción.\n• Unisex: S – M – L – XL – XXL\n• Entallada: 1 – 2 – 3 – 4",
+    "edited": false
+  },
+  "aqua-faq-15": {
+    "page": "aqua",
+    "group": "Preguntas frecuentes",
+    "label": "Recordá",
+    "value": "La Garra no es una carrera.\nEs una experiencia única para embarrarse, reírse y vivirla en equipo.",
+    "edited": false
+  },
+  "aqua-date": {
+    "page": "aqua",
+    "group": "Datos de edición",
+    "label": "Fecha del evento",
+    "value": "8 de noviembre de 2026",
+    "edited": false
+  },
+  "aqua-place": {
+    "page": "aqua",
+    "group": "Datos de edición",
+    "label": "Lugar del evento",
+    "value": "Aqua Park, Colonia",
+    "edited": false
+  },
+  "aqua-kit-1-band2": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Día",
+    "value": "Sábado",
+    "edited": false
+  },
+  "aqua-kit-1-dt": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Fecha",
+    "value": "7 de noviembre",
+    "edited": false
+  },
+  "aqua-kit-1-hr": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Horario",
+    "value": "14:00 a 18:00 hs",
+    "edited": false
+  },
+  "aqua-kit-1-pl": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Lugar y dirección",
+    "value": "Aqua Park Colonia\nCamino a la Balsa, Balneario Artilleros",
+    "edited": false
+  },
+  "aqua-kit-2-band2": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Día",
+    "value": "Domingo",
+    "edited": false
+  },
+  "aqua-kit-2-dt": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Fecha",
+    "value": "8 de noviembre",
+    "edited": false
+  },
+  "aqua-kit-2-hr": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Horario",
+    "value": "Desde las 10:00 hs",
+    "edited": false
+  },
+  "aqua-kit-2-pl": {
+    "page": "aqua",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Lugar y dirección",
+    "value": "Aqua Park Colonia\nCamino a la Balsa, Balneario Artilleros",
+    "edited": false
+  },
+  "montes-faq-1": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Cómo participar en La Garra Barro&Corazón?",
+    "value": "Requisitos\n• Equipos: mínimo 3 integrantes, sin máximo\n• Edad: desde 13 años\n• Menores de 18: deben participar acompañados por un mayor responsable",
+    "edited": false
+  },
+  "montes-faq-2": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Por qué es solo para mayores de 13 años?",
+    "value": "Por seguridad y responsabilidad.\nLos circuitos incluyen obstáculos, barro y agua, por lo que requieren cierta autonomía y cuidado personal.\n¡Queremos que todos disfruten al máximo, siempre de forma segura y divertida!",
+    "edited": false
+  },
+  "montes-faq-3": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Cómo inscribirse?",
+    "value": "Debés seguir estos pasos:\n• Completar el formulario de inscripción desde el botón Inscripción.\n• Abonar el total del equipo en un único pago, según el valor vigente en la fecha del pago.\n• Subir comprobante de pago para finalizar la inscripción del grupo.\n\nLos datos de pago llegan en el mail de confirmación.",
+    "edited": false
+  },
+  "montes-faq-4": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "Costos de inscripción (por participante)",
+    "value": "Con camiseta oficial incluida.\n• Franja 1: $1.300 – primeros 500 pagos o hasta el 25/09.\n• Franja 2: $1.550 – del 26/09 al 27/10.\n• Franja 3: $1.850 – del 28/10 al 24/11 o hasta agotar cupos.\n\nEl pago se realiza por el total del grupo.\nPromo: consultar descuento por participación en 2 o las 3 Garras. Incluye un kit con camiseta por cada edición. El descuento de la promo se aplica únicamente a los participantes que se inscriben a dos o las tres ediciones.",
+    "edited": false
+  },
+  "montes-faq-5": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Qué incluye la inscripción?",
+    "value": "Tu inscripción incluye:\n• Camiseta oficial del evento (talle sujeto a disponibilidad de stock)\n• Regalo exclusivo de La Garra Barro\n• Pulsera identificatoria correspondiente a tu turno de largada\n• Medalla Finisher al completar el recorrido\n• Productos y obsequios de sponsors\n• Hidratación durante el recorrido y en la llegada\n• Servicio de guardabultos\n• Carpas de vestuario\n• Baños químicos\n• Cobertura con fotógrafos oficiales\n• Acceso a la plaza gastronómica (comidas y bebidas)\n• Animación y entretenimiento en vivo\n• Cobertura médica con ambulancias y personal de asistencia durante todo el evento",
+    "edited": false
+  },
+  "montes-faq-6": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Son muy exigentes los obstáculos?",
+    "value": "No, no son muy exigentes.\n• Correr por barro y agua\n• Trepar cuerdas o escaleras\n• Arrastrarse por zonas con agua y barro\n• Saltar pequeños obstáculos\n\nNo necesitás entrenamiento especial: con actitud y ganas lo superás.",
+    "edited": false
+  },
+  "montes-faq-7": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Quién gana?",
+    "value": "• En La Garra nadie pierde: no hay cronómetro, ni tiempos, ni podios.\n• Se premian los equipos más divertidos, mejores disfraces y grupos más originales.",
+    "edited": false
+  },
+  "montes-faq-8": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Se suspende por lluvia?",
+    "value": "• No se suspende por lluvia.\n• Puede postergarse solo con tormenta eléctrica o alerta meteorológica.\n• La organización lo comunicará en redes sociales.",
+    "edited": false
+  },
+  "montes-faq-9": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "¿Qué vestimenta usar?",
+    "value": "• Disfraces, uniformes, pelucas, accesorios… todo lo que haga destacar a tu grupo. ¡Vale todo!\n• Usar ropa cómoda que puedas mojar y embarrar.\n\n¡Diviértanse creando su look!",
+    "edited": false
+  },
+  "montes-faq-10": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "Entrega de kits",
+    "value": "Las fechas, horarios y lugares están en Retiro de kits.\nImportante\n• Presentar el reglamento firmado por todos los integrantes.\n• Puede retirar una sola persona el kit completo del equipo.\n• Participantes del interior pueden retirar los días de la carrera desde las 10:00.",
+    "edited": false
+  },
+  "montes-faq-11": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "Turnos de participación",
+    "value": "Sábado 5 de diciembre\n12:00 – 12:30 – 13:00 – 13:30 – 14:00 – 14:30 – 15:00 – 15:30 – 16:00 – 16:30 – 17:00\nDomingo 6 de diciembre\n12:00 – 12:30 – 13:00 – 13:30 – 14:00 – 14:30 – 15:00 – 15:30 – 16:00 – 16:30 – 17:00",
+    "edited": false
+  },
+  "montes-faq-12": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "Formas de pago",
+    "value": "Abonar el total del grupo en ABITAB.\n• Caja ABITABNet 6758 La Garra 2026.\n• Los grupos deben realizar un único pago por el total.\n• Es obligatorio subir en la web de La Garra el comprobante de pago.\n\nConsultar por forma de pago para grupos de más de 30 inscriptos.",
+    "edited": false
+  },
+  "montes-faq-13": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "Talles de camisetas",
+    "value": "Revisar bien los talles antes de elegir.\nNo se podrán cambiar luego de la inscripción. Talles hasta agotar stock o cupos.\n• Unisex: S – M – L – XL – XXL\n• Entallada: 1 – 2 – 3 – 4",
+    "edited": false
+  },
+  "montes-faq-14": {
+    "page": "montes",
+    "group": "Preguntas frecuentes",
+    "label": "Recordá",
+    "value": "La Garra no es una carrera.\nEs una experiencia única para embarrarse, reírse y vivirla en equipo.",
+    "edited": false
+  },
+  "montes-date": {
+    "page": "montes",
+    "group": "Datos de edición",
+    "label": "Fecha del evento",
+    "value": "5 y 6 de diciembre",
+    "edited": false
+  },
+  "montes-place": {
+    "page": "montes",
+    "group": "Datos de edición",
+    "label": "Lugar del evento",
+    "value": "Montes, Canelones",
+    "edited": false
+  },
+  "montes-kit-1-band2": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Día",
+    "value": "Martes y miércoles",
+    "edited": false
+  },
+  "montes-kit-1-dt": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Fecha",
+    "value": "1 y 2 de diciembre",
+    "edited": false
+  },
+  "montes-kit-1-hr": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Horario",
+    "value": "9:30 a 19:30 hs",
+    "edited": false
+  },
+  "montes-kit-1-pl": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 1 · Lugar y dirección",
+    "value": "Centro de Entrenamiento de Deportes de Combate (CEDEC)\nAv. Br. José Batlle y Ordóñez 2326, esq. Av. Italia, Montevideo",
+    "edited": false
+  },
+  "montes-kit-2-band2": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Día",
+    "value": "Sábado y domingo",
+    "edited": false
+  },
+  "montes-kit-2-dt": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Fecha",
+    "value": "5 y 6 de diciembre",
+    "edited": false
+  },
+  "montes-kit-2-hr": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Horario",
+    "value": "Desde las 10:00 hs",
+    "edited": false
+  },
+  "montes-kit-2-pl": {
+    "page": "montes",
+    "group": "Retiro de kits",
+    "label": "Retiro 2 · Lugar y dirección",
+    "value": "Parque Municipal de Montes\nRuta 81 km 97, Montes, Canelones",
+    "edited": false
+  }
+}

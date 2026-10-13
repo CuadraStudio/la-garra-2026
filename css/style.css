@@ -1,4 +1,6 @@
 body{margin:0;background:#111}
+.edited-text{white-space:pre-line}
+.dstamp.stamp-edited{padding:16px;font-size:16px;text-align:center;line-height:1.3}
 html{scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 .gp{--mont:#0F3D2E;--hier:#7FB97F;--barro:#D97C2B;--agua:#4C9DEB;--sol:#F2D77C;--carb:#111;--arena:#F2EEE9;container-type:inline-size;container-name:page;position:relative;overflow-x:clip;font-family:'Source Sans 3','Source Sans Pro',system-ui,sans-serif;font-size:18px;line-height:1.55;-webkit-font-smoothing:antialiased}
