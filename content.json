@@ -422,5 +422,145 @@
     "type": "url",
     "value": "https://www.facebook.com/lagarrauy",
     "edited": false
+  },
+  "atipica-experience-title": {
+    "page": "atipica",
+    "group": "La experiencia",
+    "label": "Título",
+    "value": "Una aventura",
+    "edited": false
+  },
+  "atipica-experience-highlight": {
+    "page": "atipica",
+    "group": "La experiencia",
+    "label": "Título destacado",
+    "value": "diferente",
+    "edited": false
+  },
+  "atipica-experience-intro": {
+    "page": "atipica",
+    "group": "La experiencia",
+    "label": "Introducción",
+    "value": "La Garra Atípica te invita a recorrer un circuito con obstáculos creativos, propuestas inesperadas y una identidad inspirada, en parte, en el mundo ecuestre.",
+    "edited": false
+  },
+  "atipica-experience-paragraph-1": {
+    "page": "atipica",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 1",
+    "value": "Ruedos, trepadas, pruebas de destreza y un recorrido diseñado para sorprenderte en cada paso hacen de esta edición una aventura diferente, donde el trabajo en equipo y las ganas de disfrutar son los verdaderos protagonistas.",
+    "edited": false
+  },
+  "atipica-experience-paragraph-2": {
+    "page": "atipica",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 2",
+    "value": "Lo mejor de Atípica es descubrir cada obstáculo junto a tu equipo, superar cada prueba y llevarte recuerdos que quedan para siempre.",
+    "edited": false
+  },
+  "atipica-experience-note": {
+    "page": "atipica",
+    "group": "La experiencia",
+    "label": "Frase final destacada",
+    "value": "Una propuesta intensa, divertida y completamente ATÍPICA, donde cada obstáculo sorprende, cada desafío se disfruta y cada momento compartido se transforma en un recuerdo inolvidable.",
+    "edited": false
+  },
+  "aqua-experience-title": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Título",
+    "value": "El agua es la",
+    "edited": false
+  },
+  "aqua-experience-highlight": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Título destacado",
+    "value": "protagonista",
+    "edited": false
+  },
+  "aqua-experience-intro": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Introducción",
+    "value": "La Garra Aqua vuelve para ofrecer una experiencia diferente, donde el agua se convierte en la protagonista de cada desafío.",
+    "edited": false
+  },
+  "aqua-experience-paragraph-1": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 1",
+    "value": "Deslizate, cruzá obstáculos flotantes, atravesá pruebas acuáticas y disfrutá de un recorrido pensado para reír, refrescarte y compartir con tu equipo.",
+    "edited": false
+  },
+  "aqua-experience-paragraph-2": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 2",
+    "value": "Todo en un entorno seguro y sin necesidad de saber nadar.",
+    "edited": false
+  },
+  "aqua-experience-paragraph-3": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 3",
+    "value": "Cada obstáculo fue diseñado para que puedan vivir la aventura, ayudarse, superarse y disfrutar juntos de una jornada llena de energía y diversión.",
+    "edited": false
+  },
+  "aqua-experience-note": {
+    "page": "aqua",
+    "group": "La experiencia",
+    "label": "Frase final destacada",
+    "value": "Porque las huellas más importantes no siempre quedan en el barro. Algunas nacen en el agua y permanecen para siempre.",
+    "edited": false
+  },
+  "montes-experience-title": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Título",
+    "value": "Ensuciarse",
+    "edited": false
+  },
+  "montes-experience-highlight": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Título destacado",
+    "value": "sin miedo",
+    "edited": false
+  },
+  "montes-experience-intro": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Introducción",
+    "value": "Hay experiencias que se viven una vez… y otras a las que querés volver todos los años.",
+    "edited": false
+  },
+  "montes-experience-paragraph-1": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 1",
+    "value": "La Garra Barro&Corazón es la edición más esperada, donde miles de personas llegan con un mismo objetivo: olvidarse de todo por un día, ensuciarse sin miedo y disfrutar junto a su equipo.",
+    "edited": false
+  },
+  "montes-experience-paragraph-2": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 2",
+    "value": "Pozos de barro, agua, trepadas, desafíos, música, animación y un entorno natural único se combinan para crear una experiencia que va mucho más allá de una carrera.",
+    "edited": false
+  },
+  "montes-experience-paragraph-3": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Descripción · párrafo 3",
+    "value": "Al final del recorrido no recordarás cuántos obstáculos pasaste, sino las personas con las que reíste, el barro compartido y cada momento que hizo única la experiencia.",
+    "edited": false
+  },
+  "montes-experience-note": {
+    "page": "montes",
+    "group": "La experiencia",
+    "label": "Frase final destacada",
+    "value": "Porque las huellas más importantes no quedan en el suelo… quedan en quienes las viven.",
+    "edited": false
   }
 }

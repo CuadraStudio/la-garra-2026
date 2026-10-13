@@ -18,7 +18,7 @@
       var key = entry[0], field = entry[1];
       if (field.page !== edition.value) return;
       if (!groups[field.group]) {
-        var group = document.createElement('details'); group.className = 'editor-group'; group.open = true;
+        var group = document.createElement('details'); group.className = 'editor-group'; group.open = false;
         var heading = document.createElement('summary'); heading.textContent = field.group; group.append(heading);
         var fields = document.createElement('div'); fields.className = 'editor-fields'; group.append(fields);
         editor.append(group); groups[field.group] = fields;
@@ -64,10 +64,6 @@
       changes = {}; render(); notify('Cambios guardados. Ya están disponibles en la web conectada.');
     } catch (error) { handle(error); }
     finally { panel.querySelectorAll('#editor input, textarea, select').forEach(function (element) { element.disabled = false; }); updateCount(); }
-  });
-  document.getElementById('logout').addEventListener('click', function () {
-    if (Object.keys(changes).length && !confirm('Hay cambios sin guardar. ¿Querés cerrar la sesión y descartarlos?')) return;
-    endSession();
   });
   window.addEventListener('beforeunload', function (event) {
     if (!Object.keys(changes).length) return; event.preventDefault(); event.returnValue = '';
