@@ -562,5 +562,278 @@
     "label": "Frase final destacada",
     "value": "Porque las huellas más importantes no quedan en el suelo… quedan en quienes las viven.",
     "edited": false
+  },
+  "index-hero-kicker": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Encabezado",
+    "value": "Trilogía 2026",
+    "edited": false
+  },
+  "index-hero-title-1": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Título · primera línea",
+    "value": "La",
+    "edited": false
+  },
+  "index-hero-title-2": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Título · destacado",
+    "value": "Trilogía",
+    "edited": false
+  },
+  "index-hero-title-3": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Título · año",
+    "value": "2026",
+    "edited": false
+  },
+  "index-hero-description": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Descripción",
+    "value": "Tres desafíos, una misma esencia. Agua, barro, naturaleza y mucha diversión.",
+    "edited": false
+  },
+  "index-hero-button": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Botón principal",
+    "value": "Explorá las experiencias",
+    "edited": false
+  },
+  "index-hero-caption": {
+    "page": "index",
+    "group": "Inicio · Portada",
+    "label": "Texto bajo la foto",
+    "value": "Desafiarse · Disfrutar · Compartir",
+    "edited": false
+  },
+  "index-trilogy-kicker": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Encabezado",
+    "value": "Tres ediciones, una misma Garra",
+    "edited": false
+  },
+  "index-trilogy-title": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Título",
+    "value": "Elegí tu Garra",
+    "edited": false
+  },
+  "index-atipica-description": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Atipica · descripción",
+    "value": "Desafíos originales con algunos obstáculos inspirados en el mundo ecuestre.",
+    "edited": false
+  },
+  "index-aqua-description": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Aqua · descripción",
+    "value": "Piscinas, toboganes y juegos de agua para disfrutar una jornada diferente.",
+    "edited": false
+  },
+  "index-montes-description": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Montes · descripción",
+    "value": "Barro, pozos, trepadas y los obstáculos más emblemáticos de La Garra.",
+    "edited": false
+  },
+  "index-finalized": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Etiqueta de edición finalizada",
+    "value": "Edición finalizada",
+    "edited": false
+  },
+  "index-essence-caption": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Texto bajo la foto",
+    "value": "Más equipo que carrera",
+    "edited": false
+  },
+  "index-essence-kicker": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Encabezado",
+    "value": "La esencia de La Garra",
+    "edited": false
+  },
+  "index-essence-title": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Título",
+    "value": "Aventura en equipo.",
+    "edited": false
+  },
+  "index-essence-since": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Etiqueta del año",
+    "value": "Desde",
+    "edited": false
+  },
+  "index-essence-year": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Año",
+    "value": "2013",
+    "edited": false
+  },
+  "index-essence-paragraph-1": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Primer párrafo",
+    "value": "Desde 2013, La Garra reúne a miles de personas para vivir una aventura diferente, donde el objetivo no es competir, sino desafiarse, disfrutar y compartir en equipo.",
+    "edited": false
+  },
+  "index-essence-paragraph-2": {
+    "page": "index",
+    "group": "Inicio · La esencia",
+    "label": "Segundo párrafo",
+    "value": "Agua, barro, naturaleza, obstáculos y mucha diversión forman parte de una experiencia pensada para todas las personas, sin importar su nivel físico.",
+    "edited": false
+  },
+  "index-faq-kicker": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Encabezado",
+    "value": "Antes de inscribirte",
+    "edited": false
+  },
+  "index-faq-title": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Título",
+    "value": "Preguntas",
+    "edited": false
+  },
+  "index-faq-highlight": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Título · destacado",
+    "value": "frecuentes",
+    "edited": false
+  },
+  "index-faq-question-1": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Pregunta 1",
+    "value": "¿Dónde retiro mi kit de La Garra Aqua?",
+    "edited": false
+  },
+  "index-faq-question-2": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Pregunta 2",
+    "value": "¿Dónde retiro mi kit de La Garra Barro&Corazón?",
+    "edited": false
+  },
+  "index-faq-question-3": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Pregunta 3",
+    "value": "¿Dónde puedo leer el reglamento?",
+    "edited": false
+  },
+  "index-faq-question-4": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Pregunta 4",
+    "value": "¿Necesito saber nadar para La Garra Aqua?",
+    "edited": false
+  },
+  "index-faq-question-5": {
+    "page": "index",
+    "group": "Inicio · Preguntas frecuentes",
+    "label": "Pregunta 5",
+    "value": "¿Tengo que tener un nivel físico determinado?",
+    "edited": false
+  },
+  "index-closing-quote": {
+    "page": "index",
+    "group": "Inicio · Cierre",
+    "label": "Frase",
+    "value": "Cuando cruzás la meta con tu equipo entendés que La Garra es mucho más que una carrera.",
+    "edited": false
+  },
+  "index-closing-title": {
+    "page": "index",
+    "group": "Inicio · Cierre",
+    "label": "Título",
+    "value": "Elegí tu próxima Garra o animate a vivir La Trilogía 2026.",
+    "edited": false
+  },
+  "index-footer-contact": {
+    "page": "index",
+    "group": "Inicio · Pie de página",
+    "label": "Enlace de contacto",
+    "value": "Contacto · Dejanos un mensaje",
+    "edited": false
+  },
+  "index-footer-tagline": {
+    "page": "index",
+    "group": "Inicio · Pie de página",
+    "label": "Frase final",
+    "value": "Trilogía 2026 · Tres desafíos, una misma esencia.",
+    "edited": false
+  },
+  "index-choose-button": {
+    "page": "index",
+    "group": "Inicio · Botones",
+    "label": "Elegí tu Garra",
+    "value": "Elegí tu Garra",
+    "edited": false
+  },
+  "index-view-edition": {
+    "page": "index",
+    "group": "Inicio · Botones",
+    "label": "Ver la edición",
+    "value": "Ver la edición",
+    "edited": false
+  },
+  "index-view-photos": {
+    "page": "index",
+    "group": "Inicio · Botones",
+    "label": "Ver fotos",
+    "value": "Ver fotos",
+    "edited": false
+  },
+  "index-register": {
+    "page": "index",
+    "group": "Inicio · Botones",
+    "label": "Inscripción",
+    "value": "Inscripción",
+    "edited": false
+  },
+  "index-atipica-name": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Atípica · nombre",
+    "value": "Atípica",
+    "edited": false
+  },
+  "index-aqua-name": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Aqua · nombre",
+    "value": "Aqua",
+    "edited": false
+  },
+  "index-montes-name": {
+    "page": "index",
+    "group": "Inicio · Experiencias",
+    "label": "Montes · nombre",
+    "value": "Montes",
+    "edited": false
   }
 }
