@@ -134,9 +134,7 @@
   async function messages() {
     var target = document.getElementById('messages'); target.textContent = 'Cargando consultas…';
     try {
-      var results = await Promise.all([window.garraApi('getWebsiteSettings', {}, token), window.garraApi('listContactMessages', {}, token)]);
-      var settings = results[0], rows = results[1];
-      document.getElementById('email-status').textContent = 'Destino: ' + settings.contactTo + (settings.emailConfigured ? ' · Envío de email configurado.' : ' · Falta configurar el envío de email. Las consultas quedan guardadas aquí.');
+      var rows = await window.garraApi('listContactMessages', {}, token);
       target.replaceChildren();
       if (!rows.length) target.textContent = 'Todavía no hay consultas recibidas.';
       rows.forEach(function (row) {
@@ -153,7 +151,6 @@
         var detail = document.createElement('div'); detail.className = 'inquiry-detail';
         if (row.phone) { var phone = document.createElement('p'); phone.textContent = 'Celular: ' + row.phone; detail.append(phone); }
         var body = document.createElement('p'); body.className = 'message'; body.textContent = row.message;
-        var delivery = document.createElement('p'); delivery.className = 'meta'; delivery.textContent = row.email_status === 'sent' ? 'Email enviado' : 'Email pendiente de envío';
         var readButton = document.createElement('button'); readButton.type = 'button'; readButton.className = 'secondary';
         function showReadStatus() {
           var isRead = !!row.read_at;
@@ -169,17 +166,7 @@
             row.read_at = result.readAt; showReadStatus();
           } catch (error) { handle(error); } finally { readButton.disabled = false; }
         });
-        detail.append(body, delivery, readButton); card.append(detail);
-        if (row.email_status !== 'sent') {
-          var retry = document.createElement('button'); retry.type = 'button'; retry.className = 'secondary'; retry.textContent = 'Reintentar envío';
-          retry.addEventListener('click', async function () {
-            retry.disabled = true;
-            try {
-              var result = await window.garraApi('retryContactEmail', { id: row.id }, token);
-              notify(result.sent ? 'Email enviado.' : 'El email sigue pendiente. Revisá la configuración de envío.', !result.sent); await messages();
-            } catch (error) { handle(error); } finally { retry.disabled = false; }
-          }); detail.append(retry);
-        }
+        detail.append(body, readButton); card.append(detail);
         target.append(card);
       });
     } catch (error) { target.textContent = ''; handle(error); }
